@@ -23,6 +23,6 @@ const ProductData = {
   featureList: ["Time", "Heart Rate"],
 };
 
-Object.freeze(ProductData); //This line of code just makes your object as a constant. No values can be updated.
+Object.freeze(ProductData); //makes object as a constant. No values can be updated.
 
 export default ProductData;
